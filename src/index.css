@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+.image{
+    /* background-image: url('./img1.jpeg') !important; */
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat !;
+    /* background-color: yellow !important; */
+}
