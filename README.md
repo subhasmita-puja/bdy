@@ -112,11 +112,11 @@ Final Birthday Message
 
 | Welcome Experience | Interactive Light-Up | Memory Gallery |
 |--------------------|----------------------|----------------|
-| ![Welcome](./public/screenshots/welcome.png) | ![Light-Up](./public/screenshots/light-up.png) | ![Memory Gallery](./public/screenshots/memory-gallery.png) |
+| ![Welcome](./public/welcome.png) | ![Light-Up](./public/lp.png) | ![Memory Gallery](./public/memory.png) |
 
-| Music Player | Celebration | Final Birthday Wish |
+| Music Player | Celebration | Birthday Wish |
 |--------------|-------------|---------------------|
-| ![Music Player](./public/screenshots/music-player.png) | ![Celebration](./public/screenshots/celebration.png) | ![Final Birthday Wish](./public/screenshots/final-wish.png) |
+| ![Music Player](./public/mp.png) | ![Celebration](./public/celeb.png) | ![Birthday Wish](./public/lightup.png) |
 ---
 
 ## 🧠 What I Learned
